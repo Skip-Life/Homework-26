@@ -1,1 +1,5 @@
-print('hello')
+def worker():
+    print('hello world')
+
+
+worker()
